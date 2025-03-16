@@ -87,6 +87,10 @@ footer{
     color: #fff;
     text-align: center;
     padding: 20px;
+    position: fixed;
+    withd:100%;
+    bottom:0;
+    
 }
 footer .footer-links{
     margin-bottom: 20px;
